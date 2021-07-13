@@ -63,6 +63,9 @@ function RemoverItensLista(){
     }
 }
 
+function Imprimir(){
+    print()
+}
 
 
 
